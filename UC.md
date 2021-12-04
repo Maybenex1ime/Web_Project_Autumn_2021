@@ -17,7 +17,7 @@
   - Получить доступ и посмотреть всех данных, хранящихся в базе данных	
   - Банить пользователь
 ## Диаграмма прецедентов использования
-  ![img_1.png](img_1.png)
+  ![image](https://user-images.githubusercontent.com/74535702/144720080-ff44e0bc-79df-40e3-865b-3ba3375a8056.png)
 ## Спецификации прецедентов использования
 ![image](https://user-images.githubusercontent.com/74535702/142606261-0dc3a849-4cda-4bd8-82ae-06df6ee01fb3.png)
 
