@@ -62,4 +62,4 @@
 
 ## Диаграмма интерфейсов
     
-    https://github.com/Maybenex1ime/Web_Project_Autumn_2021/blob/main/Diagrams/UI%20Diagram.drawio
+    ![Alt text here](https://github.com/Maybenex1ime/Web_Project_Autumn_2021/blob/main/.doc/Diagrams/UI%20Diagram.drawio.png)
