@@ -60,4 +60,4 @@
     -Есть дополнительная кнопка, позволяющая администратору забанить пользователя (удалить его из базы данных)
     ![img_17.png](img_17.png)
 ## Диаграмма интерфейсов
-  ![Diagrams/UI Diagram.drawio.png](Diagrams/UI Diagram.drawio.png)
+  ![img_18.png](img_18.png)
