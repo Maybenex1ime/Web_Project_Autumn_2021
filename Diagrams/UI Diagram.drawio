@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-16T20:47:14.557Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="_g9DScuf6-e97BhO1_3W" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-16T20:49:47.265Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="ArMieqBTkZiXaaG5YdcG" version="15.9.6" type="github">
   <diagram id="LJFk7vIdHBP3qsd5WtaS" name="Page-1">
     <mxGraphModel dx="1422" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -187,6 +187,15 @@
             <mxPoint x="380" y="810" as="sourcePoint" />
             <mxPoint x="430" y="760" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="9UM9cpGr8_4hgZ6bG0Q0-70" value="если вы администратор и хотите забанить пользователя" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="9UM9cpGr8_4hgZ6bG0Q0-17" target="9UM9cpGr8_4hgZ6bG0Q0-71">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="710" as="sourcePoint" />
+            <mxPoint x="830" y="545" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9UM9cpGr8_4hgZ6bG0Q0-71" value="Личная страница других пользователей глазами администратора" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="831" y="520" width="139" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
