@@ -18,4 +18,4 @@
 
 ![image](https://user-images.githubusercontent.com/74535702/143567156-9a3fcc7c-8c3b-4a17-ad44-c874470b09c6.png)
 ## Database model:
-![img_19.png](img_19.png)
+![img_20.png](img_20.png)
