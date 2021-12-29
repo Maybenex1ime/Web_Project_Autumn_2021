@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-29T21:22:48.395Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="6J3bdka0RdhycgnoIPGH" version="16.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-29T21:26:40.110Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="UDLQN1Y0agMRulzzo9-2" version="16.0.3" type="github">
   <diagram id="LJFk7vIdHBP3qsd5WtaS" name="Page-1">
     <mxGraphModel dx="1673" dy="939" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -52,8 +52,8 @@
         <mxCell id="9UM9cpGr8_4hgZ6bG0Q0-65" value="Определённый распорядок у другой пользователя" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="490" y="820" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9UM9cpGr8_4hgZ6bG0Q0-71" value="Личная страница других пользователей глазами администратора" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="1050" y="380" width="139" height="70" as="geometry" />
+        <mxCell id="9UM9cpGr8_4hgZ6bG0Q0-71" value="Личная страница других пользователей глазами администратора&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="850" y="1210" width="139" height="70" as="geometry" />
         </mxCell>
         <mxCell id="p0pF4FtLiEV_9KGyvlp6-1" value="Avaiable routine" style="endArrow=classic;html=1;rounded=0;exitX=0.883;exitY=1.067;exitDx=0;exitDy=0;entryX=0.883;entryY=-0.017;entryDx=0;entryDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="9UM9cpGr8_4hgZ6bG0Q0-1" target="9UM9cpGr8_4hgZ6bG0Q0-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -133,13 +133,6 @@
           <mxGeometry x="-0.0769" y="10" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="180" as="sourcePoint" />
             <mxPoint x="530" y="280" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="p0pF4FtLiEV_9KGyvlp6-16" value="name of button" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry x="-0.0769" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="10" y="80" as="sourcePoint" />
-            <mxPoint x="140" y="80" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -480,6 +473,15 @@
             <mxPoint x="1160" y="1070" as="sourcePoint" />
             <mxPoint x="1160" y="550" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="p0pF4FtLiEV_9KGyvlp6-97" value="Admin interface" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1160" y="1300" as="sourcePoint" />
+            <mxPoint x="1160" y="1190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p0pF4FtLiEV_9KGyvlp6-98" value="Этот интерфейс&amp;nbsp;автоматически заменит интерфейс «Главная страница других пользователей» в системе, если вы являетесь администратором." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1200" width="260" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
